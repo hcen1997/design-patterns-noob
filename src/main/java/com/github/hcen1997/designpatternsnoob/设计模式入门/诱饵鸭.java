@@ -8,7 +8,7 @@ public class 诱饵鸭 extends 鸭子 {
 
     @Override
     void 展示() {
-        System.out.println("我是一只诱饵鸭");
+        System.out.println("我是一只木制假鸭, 名叫诱饵鸭");
     }
 
     @Override
