@@ -1,8 +1,7 @@
-package com.github.hcen1997.designpatternsnoob.设计模式入门.v1;
+package com.github.hcen1997.designpatternsnoob.设计模式入门;
 
+import com.github.hcen1997.designpatternsnoob.设计模式入门.绿头鸭;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class 绿头鸭Test {
     @Test
