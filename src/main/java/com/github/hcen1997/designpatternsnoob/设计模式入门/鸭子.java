@@ -6,7 +6,7 @@ public class 鸭子 {
     }
 
     void 游泳(){
-        System.out.println("游泳了");
+        System.out.println("游泳 了");
     }
     void 展示(){
         System.out.println("这是一只鸭子");
