@@ -11,4 +11,7 @@ public class 鸭子 {
     void 展示(){
         System.out.println("这是一只鸭子");
     }
+    void 飞(){
+        System.out.println("这只鸭子飞了");
+    }
 }
